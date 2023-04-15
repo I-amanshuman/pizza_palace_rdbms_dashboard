@@ -1,6 +1,6 @@
 # pizza_palace
 
-The client is opening up a new pizzeria in town, take out and delivery.
+The client is opening up a new pizzeria in town, for take out and delivery.
 
 He requires us to build a build a tailor made bespoke **Relational Database**, which will allow him to capture and store all the important information and data that the business generates. Along with this, he has sent us a few requirements which we need to prepare and share in a dashboard. He needs us to take care of the backend system, for the front-end, he has hired someone else.
 
