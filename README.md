@@ -32,13 +32,13 @@ b. Their quanity based on size of pizza<br>
 c. Existing stock level<br>
 
 **We will assume that the lead time for delivery by suppliers is the same for all 
-ingredients**
+ingredients** <br>
 
-** Staff data **<br>
+**Staff data** <br>
 a. Which staff members are working when <br>
 b. Based on staff salary information, how much each pizza costs (ingredients + chefs + delivery) <br>
 
-**Dashboard Requiremenets**
+**Dashboard Requiremenets** <br>
 a. Orders overview <br>
 b. Items overview <br>
 c. Staff overview <br>
