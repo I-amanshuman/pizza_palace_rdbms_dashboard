@@ -38,7 +38,7 @@ ingredients** <br>
 a. Which staff members are working when <br>
 b. Based on staff salary information, how much each pizza costs (ingredients + chefs + delivery) <br>
 
-**Dashboard Requiremenets** <br>
+**Dashboard Requirements** <br>
 a. Orders overview <br>
 b. Items overview <br>
 c. Staff overview <br>
