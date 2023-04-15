@@ -1,0 +1,315 @@
+order_id,item_price,quantity,item_cat,item_name,created_at,delivery_address1,delivery_address2,delivery_city,delivery_zipcode,delivery
+109,12.00,2,Pizza,"Pizza Margherita Reg","2022-08-10 13:22:58","607 Trails End Road",NULL,Manchester,6042,1
+110,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 13:53:07","25 Cliffside Drive",NULL,Manchester,6042,1
+111,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 13:32:51","56 Concord Road",NULL,Manchester,6042,1
+111,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 13:32:51","56 Concord Road",NULL,Manchester,6042,1
+112,19.00,3,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 19:19:26","82 Lookout Mountain Drive",NULL,Manchester,6040,0
+112,5.00,5,Side,Breadsticks,"2022-08-10 19:19:26","82 Lookout Mountain Drive",NULL,Manchester,6040,0
+112,7.00,5,Side,"Caesar Salad","2022-08-10 19:19:26","82 Lookout Mountain Drive",NULL,Manchester,6040,0
+112,6.00,1,Dessert,"Strawberry Ice cream","2022-08-10 19:19:26","82 Lookout Mountain Drive",NULL,Manchester,6040,0
+112,2.00,1,Drink,"San Pelligrino 33cl","2022-08-10 19:19:26","82 Lookout Mountain Drive",NULL,Manchester,6040,0
+113,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 19:19:26","21 Carver Lane",NULL,Manchester,6040,1
+113,16.00,1,Pizza,"Pizza Napolitana Reg","2022-08-10 20:45:11","21 Carver Lane",NULL,Manchester,6040,1
+113,6.00,2,Dessert,"Pistachio Ice cream","2022-08-10 20:45:11","21 Carver Lane",NULL,Manchester,6040,1
+113,6.00,1,Dessert,"Chocolate Ice cream","2022-08-10 20:45:11","21 Carver Lane",NULL,Manchester,6040,1
+113,5.00,3,Dessert,"Chocolate Brownie","2022-08-10 20:45:11","21 Carver Lane",NULL,Manchester,6040,1
+114,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,7.00,1,Side,"Chicken Wings","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,7.00,1,Side,"Caesar Salad","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,7.00,1,Dessert,"Banoffee Pie","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,6.00,1,Dessert,"Vanilla Ice cream","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+114,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 12:05:10","61 Plymouth Lane",NULL,Manchester,6040,1
+115,12.00,2,Pizza,"Pizza Margherita Reg","2022-08-10 12:19:00","265 Slater Street",NULL,Manchester,6042,1
+115,16.00,4,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 12:19:00","265 Slater Street",NULL,Manchester,6042,1
+115,15.00,2,Pizza,"Pizza Parmigiana Reg","2022-08-10 12:19:00","265 Slater Street",NULL,Manchester,6042,1
+115,7.00,3,Dessert,"Banoffee Pie","2022-08-10 12:19:00","265 Slater Street",NULL,Manchester,6042,1
+115,3.00,5,Drink,"Coca Cola Diet 33cl","2022-08-10 12:19:00","265 Slater Street",NULL,Manchester,6042,1
+116,19.00,3,Pizza,"Pizza Diavola (hot) Large","2022-08-10 13:08:17","159 Adams Street",NULL,Manchester,6040,1
+116,17.00,3,Pizza,"Pizza Pepperoni Large","2022-08-10 13:08:17","159 Adams Street",NULL,Manchester,6040,1
+116,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 13:08:17","159 Adams Street",NULL,Manchester,6040,1
+116,7.00,1,Side,"Caesar Salad","2022-08-10 13:08:17","159 Adams Street",NULL,Manchester,6040,1
+116,3.00,5,Drink,"Coca Cola Regular 33cl","2022-08-10 13:08:17","159 Adams Street",NULL,Manchester,6040,1
+117,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 20:24:17","66 Pine Street",NULL,Manchester,6040,0
+117,19.00,2,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 20:24:17","66 Pine Street",NULL,Manchester,6040,0
+117,7.00,2,Side,"Chicken Wings","2022-08-10 20:24:17","66 Pine Street",NULL,Manchester,6040,0
+117,6.00,1,Dessert,"Strawberry Ice cream","2022-08-10 20:24:17","66 Pine Street",NULL,Manchester,6040,0
+118,12.00,3,Pizza,"Pizza Margherita Reg","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,16.00,2,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,19.00,4,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,17.00,2,Pizza,"Pizza Pepperoni Large","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,17.00,1,Pizza,"Pizza Seafood Reg","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,15.00,5,Pizza,"Pizza Parmigiana Reg","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,6.00,4,Side,"Garlic Bread","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,7.00,4,Side,"Caesar Salad","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,5.00,10,Dessert,"Fruit Salad","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,7.00,5,Dessert,"Banoffee Pie","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+118,4.00,10,Drink,"Perrier 1.5l","2022-08-10 19:48:19","18 Cambridge Street",NULL,Manchester,6042,1
+119,17.00,1,Pizza,"Pizza Seafood Reg","2022-08-10 22:05:08","310 Timrod Road",NULL,Manchester,6040,1
+119,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 22:05:08","310 Timrod Road",NULL,Manchester,6040,1
+119,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 22:05:08","310 Timrod Road",NULL,Manchester,6040,1
+119,6.00,2,Dessert,"Pistachio Ice cream","2022-08-10 22:05:08","310 Timrod Road",NULL,Manchester,6040,1
+119,3.00,3,Drink,"Coca Cola Regular 33cl","2022-08-10 22:05:08","310 Timrod Road",NULL,Manchester,6040,1
+120,6.00,1,Drink,"Sprite Regular 1.5l","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,3.00,1,Drink,"Fanta Regular 33cl","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,7.00,1,Dessert,"Banoffee Pie","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,6.00,2,Dessert,"Chocolate Ice cream","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,5.00,1,Side,Breadsticks,"2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,7.00,1,Side,"Chicken Wings","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+120,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 14:20:09","44 Downey Drive",NULL,Manchester,6040,0
+121,19.00,2,Pizza,"Pizza Diavola (hot) Large","2022-08-10 12:05:54","31 Buckland Hills Drive",NULL,Manchester,6042,1
+121,16.00,4,Pizza,"Pizza Napolitana Reg","2022-08-10 12:05:54","31 Buckland Hills Drive",NULL,Manchester,6042,1
+121,5.00,1,Side,Breadsticks,"2022-08-10 12:05:54","31 Buckland Hills Drive",NULL,Manchester,6042,1
+121,6.00,1,Drink,"Sprite Regular 1.5l","2022-08-10 12:05:54","31 Buckland Hills Drive",NULL,Manchester,6042,1
+122,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 18:34:55","194 Buckland Hills Drive",NULL,Manchester,6042,1
+122,7.00,2,Side,"Caesar Salad","2022-08-10 18:34:55","194 Buckland Hills Drive",NULL,Manchester,6042,1
+122,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 18:34:55","194 Buckland Hills Drive",NULL,Manchester,6042,1
+122,6.00,2,Drink,"Fanta Regular 1.5l","2022-08-10 18:34:55","194 Buckland Hills Drive",NULL,Manchester,6042,1
+123,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,17.00,5,Pizza,"Pizza Pepperoni Large","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,16.00,2,Pizza,"Pizza Napolitana Reg","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,5.00,2,Side,Breadsticks,"2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,6.00,12,Dessert,"Chocolate Ice cream","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,4.00,2,Drink,"San Pelligrino 1.5l","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,3.00,22,Drink,"Fanta Regular 33cl","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+123,6.00,2,Drink,"Sprite Regular 1.5l","2022-08-10 18:43:57","29 Lucian Street",NULL,Manchester,6040,1
+124,20.00,1,Pizza,"Pizza Seafood Large","2022-08-10 20:01:57","138 Bolton Street",NULL,Manchester,6040,1
+124,5.00,2,Side,Breadsticks,"2022-08-10 20:01:57","138 Bolton Street",NULL,Manchester,6040,1
+124,7.00,2,Side,"Caesar Salad","2022-08-10 20:01:57","138 Bolton Street",NULL,Manchester,6040,1
+125,4.00,1,Drink,"San Pelligrino 1.5l","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,16.00,2,Pizza,"Pizza Napolitana Reg","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,5.00,2,Side,Breadsticks,"2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,7.00,2,Side,"Chicken Wings","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,7.00,3,Side,"Caesar Salad","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,7.00,4,Dessert,"Banoffee Pie","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,3.00,1,Drink,"Coca Cola Diet 33cl","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+125,3.00,2,Drink,"Coca Cola Regular 33cl","2022-08-10 13:08:18","60 Desousa Drive",NULL,Manchester,6040,1
+126,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 12:46:03","4 Orchard Street",NULL,Manchester,6040,0
+126,7.00,1,Side,"Chicken Wings","2022-08-10 12:46:03","4 Orchard Street",NULL,Manchester,6040,0
+126,5.00,1,Side,Breadsticks,"2022-08-10 12:46:03","4 Orchard Street",NULL,Manchester,6040,0
+126,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 12:46:03","4 Orchard Street",NULL,Manchester,6040,0
+126,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 12:46:03","4 Orchard Street",NULL,Manchester,6040,0
+127,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 13:35:18","117 Adelaide Road",NULL,Manchester,6040,1
+127,5.00,1,Side,Breadsticks,"2022-08-10 13:35:18","117 Adelaide Road",NULL,Manchester,6040,1
+127,7.00,1,Dessert,"Banoffee Pie","2022-08-10 13:35:18","117 Adelaide Road",NULL,Manchester,6040,1
+127,2.00,1,Drink,"San Pelligrino 33cl","2022-08-10 13:35:18","117 Adelaide Road",NULL,Manchester,6040,1
+127,2.00,1,Drink,"Perrier 33cl","2022-08-10 13:35:18","117 Adelaide Road",NULL,Manchester,6040,1
+128,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 21:28:36","236 Middle Turnpike East",NULL,Manchester,6040,1
+128,7.00,1,Side,"Chicken Wings","2022-08-10 21:28:36","236 Middle Turnpike East",NULL,Manchester,6040,1
+128,3.00,1,Drink,"Fanta Regular 33cl","2022-08-10 21:28:36","236 Middle Turnpike East",NULL,Manchester,6040,1
+128,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 21:28:36","236 Middle Turnpike East",NULL,Manchester,6040,1
+129,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 19:42:38","736 Middle Turnpike East",NULL,Manchester,6040,1
+129,15.00,1,Pizza,"Pizza Hawaiian Reg","2022-08-10 19:42:38","736 Middle Turnpike East",NULL,Manchester,6040,1
+129,7.00,1,Dessert,"Banoffee Pie","2022-08-10 19:42:38","736 Middle Turnpike East",NULL,Manchester,6040,1
+129,3.00,2,Drink,"Fanta Regular 33cl","2022-08-10 19:42:38","736 Middle Turnpike East",NULL,Manchester,6040,1
+130,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,7.00,1,Side,"Caesar Salad","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,6.00,1,Dessert,"Vanilla Ice cream","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,6.00,1,Dessert,"Strawberry Ice cream","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,2.00,2,Drink,"San Pelligrino 33cl","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,3.00,1,Drink,"Coca Cola Diet 33cl","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+130,3.00,1,Drink,"Sprite Regular 33cl","2022-08-10 19:51:54","95 Briarwood Drive",NULL,Manchester,6040,1
+131,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+131,17.00,1,Pizza,"Pizza Hawaiian Large","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+131,7.00,1,Side,"Chicken Wings","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+131,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+131,7.00,1,Dessert,"Banoffee Pie","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+131,6.00,1,Drink,"Fanta Regular 1.5l","2022-08-10 13:51:37","65 Arcellia Drive",NULL,Manchester,6042,1
+132,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 13:31:27","25 Edwards Street",NULL,Manchester,6042,1
+132,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 13:31:27","25 Edwards Street",NULL,Manchester,6042,1
+132,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 13:31:27","25 Edwards Street",NULL,Manchester,6042,1
+132,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 13:31:27","25 Edwards Street",NULL,Manchester,6042,1
+132,2.00,2,Drink,"Perrier 33cl","2022-08-10 13:31:27","25 Edwards Street",NULL,Manchester,6042,1
+133,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 20:36:40","115 Waddell Road",NULL,Manchester,6040,1
+134,19.00,2,Pizza,"Pizza Diavola (hot) Large","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,1
+134,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,15.00,5,Pizza,"Pizza Pepperoni Reg","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,5.00,5,Side,Breadsticks,"2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,5.00,10,Dessert,"Chocolate Brownie","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,7.00,5,Dessert,"Banoffee Pie","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,5.00,5,Dessert,"Fruit Salad","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,6.00,20,Dessert,"Chocolate Ice cream","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+134,4.00,1,Drink,"San Pelligrino 1.5l","2022-08-10 19:11:56","425 Middle Turnpike East",NULL,Manchester,6040,0
+135,19.00,3,Pizza,"Pizza Diavola (hot) Large","2022-08-10 13:29:26","13 Riverview Avenue",NULL,Groton,6340,1
+135,5.00,2,Side,Breadsticks,"2022-08-10 13:29:26","13 Riverview Avenue",NULL,Groton,6340,1
+135,7.00,3,Side,"Chicken Wings","2022-08-10 13:29:26","13 Riverview Avenue",NULL,Groton,6340,1
+135,7.00,2,Side,"Caesar Salad","2022-08-10 13:29:26","13 Riverview Avenue",NULL,Groton,6340,1
+136,6.00,2,Drink,"Coca Cola Regular 1.5l","2022-08-10 18:58:29","46 Lilac Street",NULL,Manchester,6040,1
+136,19.00,2,Pizza,"Pizza Diavola (hot) Large","2022-08-10 18:58:29","46 Lilac Street",NULL,Manchester,6040,1
+136,5.00,4,Dessert,"Chocolate Brownie","2022-08-10 18:58:29","46 Lilac Street",NULL,Manchester,6040,1
+137,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 13:14:49","16 Ambassador Drive",NULL,Manchester,6042,0
+137,15.00,1,Pizza,"Pizza Pepperoni Reg","2022-08-10 13:14:49","16 Ambassador Drive",NULL,Manchester,6042,0
+137,6.00,1,Side,"Garlic Bread","2022-08-10 13:14:49","16 Ambassador Drive",NULL,Manchester,6042,0
+137,3.00,2,Drink,"Fanta Regular 33cl","2022-08-10 13:14:49","16 Ambassador Drive",NULL,Manchester,6042,0
+138,5.00,1,Side,Breadsticks,"2022-08-10 13:12:39","119 Redwood Road",NULL,Manchester,6040,1
+138,7.00,2,Side,"Chicken Wings","2022-08-10 13:12:39","119 Redwood Road",NULL,Manchester,6040,1
+138,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 13:12:39","119 Redwood Road",NULL,Manchester,6040,1
+138,6.00,1,Side,"Garlic Bread","2022-08-10 13:12:39","119 Redwood Road",NULL,Manchester,6040,1
+139,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,20.00,1,Pizza,"Pizza Seafood Large","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,6.00,1,Side,"Garlic Bread","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,7.00,6,Side,"Chicken Wings","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,5.00,9,Side,Breadsticks,"2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+139,7.00,1,Side,"Caesar Salad","2022-08-10 19:19:54","697 Parker Street",NULL,Manchester,6042,1
+140,7.00,2,Side,"Chicken Wings","2022-08-10 13:32:17","207 Spruce Street",NULL,Manchester,6040,1
+140,17.00,1,Pizza,"Pizza Hawaiian Large","2022-08-10 13:32:17","207 Spruce Street",NULL,Manchester,6040,1
+140,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 13:32:17","207 Spruce Street",NULL,Manchester,6040,1
+140,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 13:32:17","207 Spruce Street",NULL,Manchester,6040,1
+141,7.00,1,Dessert,"Banoffee Pie","2022-08-10 21:20:59","34 Holyoke Road",NULL,Manchester,6040,0
+141,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 21:20:59","34 Holyoke Road",NULL,Manchester,6040,0
+141,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 21:20:59","34 Holyoke Road",NULL,Manchester,6040,0
+141,16.00,1,Pizza,"Pizza Napolitana Reg","2022-08-10 21:20:59","34 Holyoke Road",NULL,Manchester,6040,0
+141,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 21:20:59","34 Holyoke Road",NULL,Manchester,6040,0
+142,12.00,3,Pizza,"Pizza Margherita Reg","2022-08-10 22:02:40","175 Oak Street",NULL,Manchester,6040,1
+142,5.00,3,Side,Breadsticks,"2022-08-10 22:02:40","175 Oak Street",NULL,Manchester,6040,1
+142,6.00,3,Dessert,"Strawberry Ice cream","2022-08-10 22:02:40","175 Oak Street",NULL,Manchester,6040,1
+142,6.00,3,Drink,"Sprite Regular 1.5l","2022-08-10 22:02:40","175 Oak Street",NULL,Manchester,6040,1
+143,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 19:02:04","126 Marjorie Lane",NULL,Manchester,6042,0
+143,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 19:02:04","126 Marjorie Lane",NULL,Manchester,6042,0
+143,5.00,1,Side,Breadsticks,"2022-08-10 19:02:04","126 Marjorie Lane",NULL,Manchester,6042,0
+143,7.00,1,Dessert,"Banoffee Pie","2022-08-10 19:02:04","126 Marjorie Lane",NULL,Manchester,6042,0
+144,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+144,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+144,5.00,1,Dessert,"Fruit Salad","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+144,6.00,1,Dessert,"Vanilla Ice cream","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+144,3.00,1,Drink,"Sprite Regular 33cl","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+144,3.00,1,Drink,"Coca Cola Regular 33cl","2022-08-10 19:44:22","22 Star Farms Drive",NULL,Manchester,6040,1
+145,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,17.00,2,Pizza,"Pizza Seafood Reg","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,7.00,3,Side,"Chicken Wings","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,7.00,2,Side,"Caesar Salad","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,5.00,2,Dessert,"Fruit Salad","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+145,4.00,1,Drink,"San Pelligrino 1.5l","2022-08-10 20:04:33","89 High Ledge Circle",NULL,Manchester,6040,1
+146,15.00,1,Pizza,"Pizza Parmigiana Reg","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+146,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+146,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+146,7.00,2,Dessert,"Banoffee Pie","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+146,3.00,1,Drink,"Sprite Diet 33cl","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+146,3.00,1,Drink,"Coca Cola Diet 33cl","2022-08-10 20:34:23","126 Garth Road",NULL,Manchester,6040,1
+147,6.00,1,Drink,"Fanta Diet 1.5l","2022-08-10 13:24:24","44 Colonial Road",NULL,Manchester,6042,1
+147,5.00,2,Dessert,"Chocolate Brownie","2022-08-10 13:24:24","44 Colonial Road",NULL,Manchester,6042,1
+147,16.00,2,Pizza,"Pizza Napolitana Reg","2022-08-10 13:24:24","44 Colonial Road",NULL,Manchester,6042,1
+148,19.00,2,Pizza,"Pizza Diavola (hot) Large","2022-08-10 19:44:01","31 Ashworth Street",NULL,Manchester,6040,1
+148,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 19:44:01","31 Ashworth Street",NULL,Manchester,6040,1
+148,16.00,3,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 19:44:01","31 Ashworth Street",NULL,Manchester,6040,1
+149,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,7.00,1,Side,"Caesar Salad","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,6.00,1,Side,"Garlic Bread","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,7.00,1,Dessert,"Banoffee Pie","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+149,6.00,1,Drink,"Fanta Diet 1.5l","2022-08-10 21:02:21","145 Saint John Street",NULL,Manchester,6040,0
+150,16.00,2,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,15.00,1,Pizza,"Pizza Parmigiana Reg","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,6.00,2,Side,"Garlic Bread","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,7.00,1,Side,"Caesar Salad","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,6.00,1,Dessert,"Chocolate Ice cream","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+150,4.00,1,Drink,"San Pelligrino 1.5l","2022-08-10 22:29:16","211 Oak Street",NULL,Manchester,6040,1
+151,5.00,4,Dessert,"Chocolate Brownie","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,7.00,2,Side,"Chicken Wings","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,15.00,2,Pizza,"Pizza Pepperoni Reg","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,18.00,3,Pizza,"Pizza Napolitana Large","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,17.00,1,Pizza,"Pizza Seafood Reg","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,5.00,2,Side,Breadsticks,"2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,3.00,3,Drink,"Coca Cola Regular 33cl","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,0
+151,6.00,3,Drink,"Sprite Regular 1.5l","2022-08-10 13:38:14","125 Summer Street",NULL,Manchester,6040,1
+152,16.00,1,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+152,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+152,5.00,1,Side,Breadsticks,"2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+152,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+152,3.00,1,Drink,"Sprite Regular 33cl","2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+152,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 13:04:10","86 Highland Street",NULL,Manchester,6040,1
+153,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+153,17.00,1,Pizza,"Pizza Hawaiian Large","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+153,7.00,1,Side,"Caesar Salad","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+153,6.00,1,Dessert,"Vanilla Ice cream","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+153,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+153,6.00,1,Drink,"Fanta Regular 1.5l","2022-08-10 13:43:58","61 Hills Street",NULL,Manchester,6040,1
+154,12.00,1,Pizza,"Pizza Margherita Reg","2022-08-10 22:13:41","219 Bidwell Street",NULL,Manchester,6040,1
+154,16.00,1,Pizza,"Pizza Napolitana Reg","2022-08-10 22:13:41","219 Bidwell Street",NULL,Manchester,6040,1
+155,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 21:43:47","44 Campfield Road",NULL,Manchester,6040,1
+155,5.00,1,Side,Breadsticks,"2022-08-10 21:43:47","44 Campfield Road",NULL,Manchester,6040,1
+155,7.00,2,Side,"Caesar Salad","2022-08-10 21:43:47","44 Campfield Road",NULL,Manchester,6040,1
+155,6.00,1,Drink,"Fanta Regular 1.5l","2022-08-10 21:43:47","44 Campfield Road",NULL,Manchester,6040,1
+156,19.00,20,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+156,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+156,16.00,8,Pizza,"Pizza Diavola (hot) Reg","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+156,16.00,5,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+156,18.00,1,Pizza,"Pizza Napolitana Large","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+156,17.00,1,Pizza,"Pizza Seafood Reg","2022-08-10 22:29:45","184 Woodland Street",NULL,Manchester,6042,1
+157,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+157,16.00,1,Pizza,"Pizza Napolitana Reg","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+157,7.00,2,Side,"Caesar Salad","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+157,7.00,1,Dessert,"Banoffee Pie","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+157,6.00,1,Dessert,"Pistachio Ice cream","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+157,6.00,2,Dessert,"Strawberry Ice cream","2022-08-10 22:47:38","225 Kennedy Road",NULL,Manchester,6042,1
+158,15.00,1,Pizza,"Pizza Pepperoni Reg","2022-08-10 12:06:50","173 Center Street",NULL,Manchester,6040,1
+158,17.00,1,Pizza,"Pizza Hawaiian Large","2022-08-10 12:06:50","173 Center Street",NULL,Manchester,6040,1
+158,7.00,1,Side,"Caesar Salad","2022-08-10 12:06:50","173 Center Street",NULL,Manchester,6040,1
+158,5.00,2,Dessert,"Chocolate Brownie","2022-08-10 12:06:50","173 Center Street",NULL,Manchester,6040,1
+159,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+159,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+159,17.00,2,Pizza,"Pizza Pepperoni Large","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+159,17.00,2,Pizza,"Pizza Hawaiian Large","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,6.00,2,Side,"Garlic Bread","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,7.00,2,Side,"Chicken Wings","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,5.00,2,Side,Breadsticks,"2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,7.00,2,Side,"Caesar Salad","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,6.00,1,Dessert,"Chocolate Ice cream","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,6.00,1,Dessert,"Pistachio Ice cream","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,6.00,1,Dessert,"Strawberry Ice cream","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,6.00,1,Dessert,"Vanilla Ice cream","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,5.00,5,Dessert,"Chocolate Brownie","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,0
+159,7.00,5,Dessert,"Banoffee Pie","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+159,5.00,1,Dessert,"Fruit Salad","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+159,6.00,1,Drink,"Fanta Regular 1.5l","2022-08-10 13:40:45","150 Carter Street",NULL,Manchester,6040,1
+160,19.00,2,Pizza,"Pizza Diavola (hot) Large","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,15.00,1,Pizza,"Pizza Pepperoni Reg","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,18.00,4,Pizza,"Pizza Parmigiana Large","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,7.00,1,Side,"Caesar Salad","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,5.00,1,Side,Breadsticks,"2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,7.00,1,Side,"Chicken Wings","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,6.00,1,Side,"Garlic Bread","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,6.00,3,Dessert,"Vanilla Ice cream","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,4.00,3,Drink,"San Pelligrino 1.5l","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,3.00,1,Drink,"Fanta Regular 33cl","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+160,6.00,1,Drink,"Sprite Regular 1.5l","2022-08-10 20:15:24","68 Princeton Street",NULL,Manchester,6042,1
+161,16.00,10,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 21:42:27","38 Bruce Road",NULL,Manchester,6040,1
+162,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 12:51:13","208 Timrod Road",NULL,Manchester,6040,1
+162,19.00,1,Pizza,"Pizza Quattro Formaggi Large","2022-08-10 12:51:13","208 Timrod Road",NULL,Manchester,6040,1
+162,6.00,1,Side,"Garlic Bread","2022-08-10 12:51:13","208 Timrod Road",NULL,Manchester,6040,1
+163,18.00,1,Pizza,"Pizza Parmigiana Large","2022-08-10 13:00:40","981 Groton Long Point Road",NULL,Groton,6340,1
+163,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 13:00:40","981 Groton Long Point Road",NULL,Groton,6340,1
+163,6.00,1,Side,"Garlic Bread","2022-08-10 13:00:40","981 Groton Long Point Road",NULL,Groton,6340,1
+164,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,17.00,1,Pizza,"Pizza Pepperoni Large","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,5.00,2,Side,Breadsticks,"2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,7.00,2,Side,"Caesar Salad","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,7.00,1,Dessert,"Banoffee Pie","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+164,6.00,2,Drink,"Coca Cola Regular 1.5l","2022-08-10 21:01:04","123 Elizabeth Drive",NULL,Manchester,6042,1
+165,6.00,2,Side,"Garlic Bread","2022-08-10 19:19:24","35 Lakewood Circle South",NULL,Manchester,6040,0
+165,19.00,1,Pizza,"Pizza Diavola (hot) Large","2022-08-10 19:19:24","35 Lakewood Circle South",NULL,Manchester,6040,0
+165,14.00,1,Pizza,"Pizza Margherita Large","2022-08-10 19:19:24","35 Lakewood Circle South",NULL,Manchester,6040,0
+165,7.00,1,Dessert,"Banoffee Pie","2022-08-10 19:19:24","35 Lakewood Circle South",NULL,Manchester,6040,0
+165,6.00,1,Drink,"Coca Cola Diet 1.5l","2022-08-10 19:19:24","35 Lakewood Circle South",NULL,Manchester,6040,0
+166,16.00,1,Pizza,"Pizza Quattro Formaggi Reg","2022-08-10 14:22:33","91 Eldridge Street",NULL,Manchester,6040,1
+166,5.00,1,Side,Breadsticks,"2022-08-10 14:22:33","91 Eldridge Street",NULL,Manchester,6040,1
+166,5.00,1,Dessert,"Chocolate Brownie","2022-08-10 14:22:33","91 Eldridge Street",NULL,Manchester,6040,1
+166,6.00,1,Drink,"Coca Cola Regular 1.5l","2022-08-10 14:22:33","91 Eldridge Street",NULL,Manchester,6040,1
