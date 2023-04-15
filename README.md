@@ -45,6 +45,9 @@ c. Staff overview <br>
 
 ![image](https://user-images.githubusercontent.com/77953290/232226828-7c724660-e153-47a7-b12a-20afec2d29c2.png)
 
+![image](https://user-images.githubusercontent.com/77953290/232227758-9bb7d105-8277-48b2-937c-e740199ed13d.png)
+
+
 Visit the full dashboard: https://www.novypro.com/project/pizzapalacedashboard-1
 
 
